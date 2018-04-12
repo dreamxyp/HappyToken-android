@@ -1,4 +1,5 @@
 .idea
+.svn
 .DS_Store
 /captures
 .externalNativeBuild
